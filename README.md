@@ -9,6 +9,7 @@ it is a smart mobile consulting application to make agricultural engineering eas
  .........................................................................................
  
  🥇The application that holds the number one in Syria🥇 
+ 
  .........................................................................................
  
  powered by GRW.SMART all right reserved V1.0.0 ©️ 2022-2023
@@ -23,6 +24,7 @@ it is a smart mobile consulting application to make agricultural engineering eas
 
 
 powered by : @RawanAbdAlrazak
+
 ....................................................
   #التطبيق_رقم_واحد💡
   #التطبيق_الزراعي_الذكي🌱💚
